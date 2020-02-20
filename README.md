@@ -1,2 +1,3 @@
 # PHPpractice
-## File running command php -S localhost:8000
+## File running command 
+php -S localhost:8000
